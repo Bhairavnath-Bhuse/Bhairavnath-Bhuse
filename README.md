@@ -23,7 +23,6 @@
   〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 -  My socials are listed below
   - My Portfolio Website [Bhairavnath Bhuse](https://bhairavnth-portfolio.netlify.app/)
-  - LinkedIn at [Bhairavnath Bhuse](https://www.linkedin.com/in/bhairavnath-bhuse-740266231/)
   - Mail me at **bhusebhairavnath@gmail.com** 
   regarding any work or if you just wanna connect
 <!--
