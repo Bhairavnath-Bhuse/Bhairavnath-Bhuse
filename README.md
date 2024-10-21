@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-<br>🔭 I’m currently working on AI projects.<br><br>👯 I’m looking to collaborate on fun and/or useful open source projects.<br><br>💬 Ask me about node, react, C++,  java,<br><br>🖧 Would love to network and join new communities, find people with similar interests.<br><br>📄 Know about my experiences here [view](https://drive.google.com/file/d/1eONUO5pLrplCcnJ3lcVk2J1T-CCCuDrE/view).<br><br>⚡ Fun fact: Coders run on coffee ☕!
+<br>🔭 I’m currently working on AI projects.<br><br>👯 I’m looking to collaborate on fun and/or useful open source projects.<br><br>💬 Ask me about node, react, C++,  java,<br><br>🖧 Would love to network and join new communities, find people with similar interests.<br><br>📄 Know about my experiences here [view]([https://drive.google.com/file/d/1eONUO5pLrplCcnJ3lcVk2J1T-CCCuDrE/view](https://drive.google.com/file/d/1mOp9HJkagT6My14RR-C2UltaS9OXFWHD/view?usp=drive_link)).<br><br>⚡ Fun fact: Coders run on coffee ☕!
 
 
 ### 🌐 Socials:
