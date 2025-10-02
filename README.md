@@ -2,15 +2,15 @@
 
 
 ## 💫 About Me:
-🔭 I’m currently working on AI projects.
+🔭 I’m currently interning at MetroGuild(React.js, PHP, Cassandra, Django) and has 6 months of internship exprience at Candourootes(Java, React.js, Spring Boot, MySQL).
 
 👯 I’m looking to collaborate on fun and/or useful open source projects.
 
-💬 Ask me about Java, Spring Boot, Node, React, C++.
+💬 Ask me about Java, Spring Boot, Node, React, C++, Python, PHP, Django, Cassandra, RabbitMQ, Redis, MySQL, Node.js.
 
 🖧 Would love to network and join new communities, and find people with similar interests.
 
-📄 Know about my experiences here [view](https://drive.google.com/file/d/1UERtUV-mXkeOYo3adsJD3aRsLFhpjzm5/view?usp=sharing).
+📄 Know about my experiences here [view](https://drive.google.com/file/d/1wqnKHxh5sG13mAgX44TI3BRks2R55e8r/view?usp=sharing).
 
 ⚡ Fun fact: Coders run on coffee ☕!
 
