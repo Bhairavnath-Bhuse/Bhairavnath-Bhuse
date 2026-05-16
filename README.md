@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-🔭 I’m currently SDE at MetroGuild(React.js, PHP, Cassandra, Django) and has 6 months of internship exprience at Candourootes(Java, React.js, Spring Boot, MySQL).
+🔭 I’m currently SDE at MetroGuild(React.js, Cassandra, Django) and has 6 months of internship exprience at Candourootes(Java, React.js, Spring Boot, MySQL).
 
 👯 I’m looking to collaborate on fun and/or useful open source projects.
 
